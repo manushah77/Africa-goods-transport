@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "60559464031",
+    "project_id": "africagoodstransport",
+    "storage_bucket": "africagoodstransport.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60559464031:android:1ae44714fd904a64c1adea",
+        "android_client_info": {
+          "package_name": "com.goodstransport.goods_transport"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiAAN35FWazkKUflmQcuTfQjgjYLA3XrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
